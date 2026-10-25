@@ -1,20 +1,11 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# Resume analyzer — legacy source bundle
 
-# Run and deploy your AI Studio app
+**Archived reference — reviewed 25 October 2026.**
 
-This contains everything you need to run your app locally.
+An earlier Angular resume-analyzer experiment. Application source is stored inside `zipFile.zip`, rather than in the active project tree. The same source archive appears in multiple experimental repositories.
 
-View your app in AI Studio: https://ai.studio/apps/drive/1mTppgxTtKrVCgwP7UXybYs6WYBXClfYH
+## Reusing this work
 
-## Run Locally
+Extract `zipFile.zip` to inspect or reuse the earlier components. Prefer [Resume Review](https://github.com/chitrakantverma/resume-review) for ongoing development. Do not treat these duplicate uploads as separate completed projects.
 
-**Prerequisites:**  Node.js
-
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+The source and original commit history are retained. Unarchive this repository before editing it again, or reuse a specific component in another project with a clear new commit. No development dates were rewritten during this cleanup.
